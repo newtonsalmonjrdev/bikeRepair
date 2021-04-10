@@ -24,7 +24,7 @@ class bikeClass:
             print("Please input correct number of wheels")
 
     def shiftingCable:
-        if problem == "change shifting cable":
+        if problem = "change shifting cable":
             print("How to change shifting cable")
     def brakingCable:
         if problem == "change braking cable":
