@@ -42,7 +42,7 @@ class bikeClass:
     #
     # def shiftingCable:
     #     if problem = "change shifting cable":
-    #         print("How to change shifting cable")
+    #         print("How to change shifting cable:")
     # def brakingCable:
     #     if problem == "change braking cable":
     #         print("How to change breaking cable:")
