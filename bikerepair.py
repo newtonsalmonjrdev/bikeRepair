@@ -32,7 +32,7 @@ class bikeClass:
                 pass
 
 
-    #             print("How to remove front wheel:")
+    #             print("How To remove front wheel:")
     #         elif problem == "remove back wheel":
     #             print("How to remove rear wheel")
     #     elif wheels == 3:
