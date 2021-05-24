@@ -26,7 +26,7 @@ class bikeClass:
 
             if self.problem == "adjusting brakes": # "TODO: pg 205 adjusting brakes"
                 pass
-            if self.problem == "replacing shift cables": # "TODO: pg 95 cabless"
+            if self.problem == "replacing shift cables": # "TODO: pg 95 cables"
                 pass
             if self.problem == "wheel building": # "TODO: pg 379 wheel building"
                 pass
