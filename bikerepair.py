@@ -45,7 +45,7 @@ class bikeClass:
     #         print("How to change shifting cable:")
     # def brakingCable:
     #     if problem == "change braking cable":
-    #         print("How to chancfddghhhbbnngfxcdsetghggggfddege breaking cable:")
+    #         print("How to chance breaking cable:")
     # # def slippedChain:
 
 bike = bikeClass(2, "flat tire", "pres")
