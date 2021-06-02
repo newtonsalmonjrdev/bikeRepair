@@ -48,6 +48,6 @@ class bikeClass:
     #         print("How to chance breaking cable:")
     # # def slippedChain:
 
-bike = bikeClass(2, "flat tire", "pres")
+bike = bikeClass(2, "flat tireeeeeeeee3eeeeeeeeeeeeeeeeee", "pres")
 
 bike.repairWheel()
