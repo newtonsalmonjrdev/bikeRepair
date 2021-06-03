@@ -1,6 +1,6 @@
 
 class bikeClass:
-    # "todo: figure out how to set inheritance for opening the repairwheeltxt file"
+    # "todo: figure out how to set inheritance for opening the repairwheeltxt filee"
 
     def __init__(self, wheels, problem, valve):
         self.wheels = wheels
